@@ -70,7 +70,7 @@ Contributions are welcome! Feel free to fork the repository, submit pull request
 
 ## Contact
 
-For queries or collaboration, reach out to me at [your email] or visit my GitHub profile [@RamTechie19](https://github.com/RamTechie19).
+For queries or collaboration, reach out to me at [arnavsharma1104@gmail.com] or visit my GitHub profile (https://github.com/ArnavSharma1104).
 
 ---
 
